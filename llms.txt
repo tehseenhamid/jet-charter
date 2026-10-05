@@ -1,0 +1,54 @@
+# Skyvelle
+
+> Private jet charter across the United States with transparent hourly pricing, safety-audited operators and a 24/7 flight advisor.
+
+Skyvelle is a private aviation broker. Flights are operated by independent FAA Part 135 carriers named on every quote. Prices on this site are indicative market ranges, not quotes.
+
+## Key pages
+- [Private jet charter](https://www.example.com/private-jet-charter/): how on-demand charter works
+- [Instant quote](https://www.example.com/instant-quote/): request a quote and see an estimate
+- [Private jet cost](https://www.example.com/private-jet-cost/): hourly rates by aircraft class and worked examples
+- [Empty leg flights](https://www.example.com/empty-leg-flights/)
+- [Jet card](https://www.example.com/jet-card/)
+- [Safety](https://www.example.com/safety/): how operators are vetted
+- [FAQ](https://www.example.com/faq/)
+
+## Fleet
+- [Light Jets](https://www.example.com/fleet/light-jets/): 4–7 seats, 2,100 mile range
+- [Midsize Jets](https://www.example.com/fleet/midsize-jets/): 6–9 seats, 2,600 mile range
+- [Super-Midsize Jets](https://www.example.com/fleet/super-midsize-jets/): 8–10 seats, 3,500 mile range
+- [Heavy Jets](https://www.example.com/fleet/heavy-jets/): 10–16 seats, 4,500 mile range
+- [Ultra-Long-Range Jets](https://www.example.com/fleet/ultra-long-range-jets/): 10–16 seats, 7,000 mile range
+- [Turboprops](https://www.example.com/fleet/turboprops/): 4–9 seats, 1,700 mile range
+
+## Routes
+- [New York to Miami](https://www.example.com/routes/new-york-to-miami/)
+- [New York to Palm Beach](https://www.example.com/routes/new-york-to-palm-beach/)
+- [New York to Los Angeles](https://www.example.com/routes/new-york-to-los-angeles/)
+- [New York to Aspen](https://www.example.com/routes/new-york-to-aspen/)
+- [New York to The Hamptons](https://www.example.com/routes/new-york-to-the-hamptons/)
+- [New York to Boston](https://www.example.com/routes/new-york-to-boston/)
+- [Boston to Nantucket](https://www.example.com/routes/boston-to-nantucket/)
+- [Los Angeles to Las Vegas](https://www.example.com/routes/los-angeles-to-las-vegas/)
+- [Los Angeles to San Francisco](https://www.example.com/routes/los-angeles-to-san-francisco/)
+- [Los Angeles to Aspen](https://www.example.com/routes/los-angeles-to-aspen/)
+- [Los Angeles to Los Cabos](https://www.example.com/routes/los-angeles-to-los-cabos/)
+- [Chicago to Aspen](https://www.example.com/routes/chicago-to-aspen/)
+- [Chicago to New York](https://www.example.com/routes/chicago-to-new-york/)
+- [Dallas to Aspen](https://www.example.com/routes/dallas-to-aspen/)
+- [Dallas to Los Angeles](https://www.example.com/routes/dallas-to-los-angeles/)
+- [Houston to Aspen](https://www.example.com/routes/houston-to-aspen/)
+- [Atlanta to Palm Beach](https://www.example.com/routes/atlanta-to-palm-beach/)
+- [Miami to Nassau](https://www.example.com/routes/miami-to-nassau/)
+- [Washington, DC to Palm Beach](https://www.example.com/routes/washington-dc-to-palm-beach/)
+- [San Francisco to Jackson Hole](https://www.example.com/routes/san-francisco-to-jackson-hole/)
+
+## Guides
+- [How Much Does It Cost to Charter a Private Jet?](https://www.example.com/guides/how-much-does-it-cost-to-charter-a-private-jet/)
+- [What Is an Empty Leg Flight? How It Works](https://www.example.com/guides/what-is-an-empty-leg-flight/)
+- [Private Jet Charter vs Jet Card vs Fractional](https://www.example.com/guides/private-jet-charter-vs-jet-card-vs-fractional/)
+- [How to Charter a Private Jet: Step by Step](https://www.example.com/guides/how-to-charter-a-private-jet/)
+- [Private Jet Safety: ARGUS, Wyvern and Part 135](https://www.example.com/guides/private-jet-safety-argus-wyvern-explained/)
+- [Light vs Midsize vs Heavy Jet: Which to Charter](https://www.example.com/guides/light-vs-midsize-vs-heavy-jet/)
+- [Flying Private with Pets and Kids: What to Know](https://www.example.com/guides/flying-private-with-pets-and-kids/)
+- [How to Choose a Private Jet Charter Company](https://www.example.com/guides/how-to-choose-a-private-jet-charter-company/)
